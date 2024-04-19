@@ -1,4 +1,4 @@
-##Online Collaborative text editor
+**Online Collaborative text editor
 
 The goal of this project is to develop a web-based collaborative text editor that allows multiple users to edit a document simultaneously in real-time. 
 
